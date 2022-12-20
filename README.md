@@ -1,1 +1,1 @@
-# Nishchal
+"I am excited to be a part of GitHub. I love the aspect of being part of a startup like GitHub within a larger company. I hear GitHub has a learning centric culture and I am eager to learn more about our products and our customers."
